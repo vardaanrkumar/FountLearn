@@ -3,6 +3,8 @@ Let’s be honest: your textbook is great for curing insomnia, but terrible at e
 
 Whether you are battling a monstrous multi-step calculus fraction or trying to remember if photosynthesis is a plant making food or a photography trend, Fount has your back.
 
+# Live Preview : https://fountlearn.netlify.app/
+
 ⚡ What’s Under the Hood?
 The AI Tutor: Select your subject context track, dump your chaotic homework question, and watch it spit out step-by-step, simplified explanations with textbook-crisp, beautifully rendered mathematical symbols.
 
